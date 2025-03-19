@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**dcvdiego/dcvdiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Diego! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a full stack developer @ IBM based in London with a passion of innovative technology and green energy.
+
+
+## 🛠 Skills
+TypeScript, React Frameworks, Python, Terraform, Docker... and much more
+
+
+
+
+👩‍💻 I'm currently working on deskspacer and homelabbing!
+
+🧠 I'm currently learning C# and Terraform
+
+🤔 I'm looking for help with deskspacer, specifically 3D modelling
