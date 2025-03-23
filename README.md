@@ -7,12 +7,12 @@ I'm a full stack developer @ IBM based in London with a passion of innovative te
 
 
 ## 🛠 Skills
-TypeScript, React Frameworks, Python, Terraform, Docker... and much more
+TypeScript, React Frameworks, Node.js, Python, Terraform, Docker... and much more!
 
 
 
 
-👩‍💻 I'm currently working on deskspacer and homelabbing!
+👩‍💻 I'm currently working on DeskSPACER and homelabbing!
 
 🧠 I'm currently learning C# and Terraform
 
