@@ -12,8 +12,6 @@ TypeScript, React Frameworks, Node.js, Go, Python, Terraform, Docker... and much
 
 
 
-👩‍💻 I'm currently working on DeskSPACER and homelabbing!
-
-🧠 I'm currently learning Go and Terraform
+👩‍💻 I'm currently working on ltm-engine and homelabbing!
 
 🤔 I'm looking for help with deskspacer, specifically 3D modelling
