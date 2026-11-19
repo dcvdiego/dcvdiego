@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a software engineer @ Fonoa based in London with a passion of innovative technology and green energy.
+I'm a software engineer @ Fonoa based in London with a passion for innovative technology and green energy.
 
 
 ## 🛠 Skills
